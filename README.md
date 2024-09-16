@@ -20,6 +20,8 @@ Develop a RESTful API that returns the list of nominees and winners of the Worst
 ```bash
 curl http://localhost:8080/producer/stats
 ```
+### API Documentation (Swagger UI)
+http://localhost:8080/swagger-ui/index.html
 
 ### Sample Response - Award intervals Response
 ```json
@@ -57,6 +59,6 @@ curl http://localhost:8080/producer/stats
 
 ### TODO
 - [X] Add integration tests (only integration tests are needed for this project according to the requirement)
-- [ ] Add swagger documentation
+- [X] Add swagger documentation
 - [ ] Finish README documentation
 
