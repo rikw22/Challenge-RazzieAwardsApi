@@ -3,6 +3,24 @@
 ### Statement
 Develop a RESTful API that returns the list of nominees and winners of the Worst Film category of the Golden Raspberry Awards.
 
+### Requirements
+- JDK 21+
+
+## How to run this project
+```bash
+./mvnw spring-boot:run
+```
+
+### How to run the tests of this project
+```bash
+./mvnw test
+```
+
+### Http Request
+```bash
+curl http://localhost:8080/producer/stats
+```
+
 ### Sample Response - Award intervals Response
 ```json
 {
