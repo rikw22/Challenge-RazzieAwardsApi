@@ -58,7 +58,4 @@ http://localhost:8080/swagger-ui/index.html
 ```
 
 ### TODO
-- [X] Add integration tests (only integration tests are needed for this project according to the requirement)
-- [X] Add swagger documentation
-- [ ] Finish README documentation
 - [ ] Add Global Exception Handler
