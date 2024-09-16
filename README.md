@@ -56,7 +56,7 @@ curl http://localhost:8080/producer/stats
 ```
 
 ### TODO
-- [ ] Add integration tests (only integration tests are needed for this project according to the requirement)
+- [X] Add integration tests (only integration tests are needed for this project according to the requirement)
 - [ ] Add swagger documentation
 - [ ] Finish README documentation
 
